@@ -140,19 +140,19 @@ hexo g，然后hexo s试试能不能访问本地的localhost：4000
 
 	![](http://i.imgur.com/LE0FuQu.png)
 
-22. 跟上面一样就ok；接下来就是输入以下命令：  
-hexo c   ----清理缓存   
+22. 跟上面一样就ok；接下来就是输入以下命令：     
 hexo g   ---生成静态文件   
 hexo d   ---部署   
 部署的时候会提示输入github的用户名，这里不是邮箱地址。   
 还有输入密码。
 
 	![](http://i.imgur.com/yTwtyKm.png)
+
 23.  注意：如果不行，解决方法如下：   
 输入下面代码：    
-npm install hexo-deployer-git --save    -----为了能够使Hexo部署到GitHub上，需要安装一个插件   
+    npm install hexo-deployer-git  - -save  
+	--------为了能够使Hexo部署到GitHub上，需要安装一个插件   
 然后：执行    
-hexo c   
 hexo g   
 hexo d    
 这下就可以去浏览器输入:用户名.github.io进行访问啦！！    
