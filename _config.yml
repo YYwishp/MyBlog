@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions插件，主题
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-spfk
+theme: landfarz
 
 # Markdown语法
 ## https://github.com/chjj/marked
