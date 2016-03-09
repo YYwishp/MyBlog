@@ -24,13 +24,13 @@ favicon: /img/favicon.png
 ## RSS requires a plugin to take effect | 使用 RSS 需先安装对应插件
 ## https://github.com/hexojs/hexo-generator-feed
 subnav:
-  mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PAkNDgsKBQ4MCnxNTRJfU1E"
-  github: "https://github.com/luuman"
-  zhihu: "https://www.zhihu.com/people/luuman"
-  weibo: "http://weibo.com/lishangmou"
-  google: "http://i.youku.com/shangmou"
-  twitter: "http://twitter.com/luuman"
-  facebook: "#"
+  mail: "http://email.163.com/"
+  github: "https://github.com/YYwishp"
+  # zhihu: "https://www.zhihu.com/people/luuman"
+  # weibo: "http://weibo.com/lishangmou"
+  # google: "http://i.youku.com/shangmou"
+  # witter: "http://twitter.com/luuman"
+  # facebook: "#"
   rss: /atom.xml
   # linkedin: "https://www.linkedin.com/in/%E5%BF%A0%E6%88%90-%E6%9D%8E-a48562b1"
   # douban: "#"
@@ -41,7 +41,7 @@ subnav:
   # Google: "#"
   # Twitter: "#"
   # LinkedIn: "#"
-  # QQ: "#"
+  # QQ: "272464310"
   # 微信: "Wechat"
   # PayPal: "#"
   # StackOverflow: "#"
