@@ -141,7 +141,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night
+highlight_theme: night bright
 
 # `阅读全文` 按钮跳转之后是否自动滚动页面到设置 `<!-- more -->` 的地方。
 scroll_to_more: true

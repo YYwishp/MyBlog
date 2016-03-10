@@ -11,7 +11,9 @@ categories: HEXO
 1. 鼠标右击【HEXO】文件夹，选中Git在这里创建版本库
 
 	![](http://i.imgur.com/QIX3nDR.jpg)
+
 <!--more-->
+
 2. 点击确定
 
     ![](http://i.imgur.com/OITj2Rc.png)
