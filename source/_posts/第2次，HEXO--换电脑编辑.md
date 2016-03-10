@@ -6,7 +6,7 @@ tags: HEXO
 categories: HEXO
 
 ---
-# 首先在A电脑上把【HEXO】文件整个上传到Github上，具体操作如下
+### 首先在A电脑上把【HEXO】文件整个上传到Github上，具体操作如下
 
 1. 鼠标右击【HEXO】文件夹，选中Git在这里创建版本库
 
@@ -54,7 +54,7 @@ categories: HEXO
 
 
 
-#接下来是B电脑从github上pull拉的过程
+###接下来是B电脑从github上pull拉的过程
 1. 在B电脑上新建一个文件夹。然后右击选中Git在这里创建版本库
 
 	![](http://i.imgur.com/QIX3nDR.jpg)
