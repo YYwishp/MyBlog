@@ -7,7 +7,7 @@ title: YYwishp博客
 subtitle: 记录点滴
 description: 记录点滴
 author: YYwishp
-language: zh-CN
+language: zh-Hans
 
 
 # URL
@@ -42,7 +42,6 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-
 # Category & Tag目录和标签
 default_category: uncategorized
 category_map: uncategorized
@@ -73,7 +72,24 @@ pagination_dir: page
 # Extensions插件，主题
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landfarz
+theme: next
+
+#头像
+avatar: /images/head.jpg
+# Social links
+social:
+  github: https://github.com/YYwishp
+  #twitter: https://twitter.com/your-user-name
+  #weibo: http://weibo.com/your-user-name
+  #douban: http://douban.com/people/your-user-name
+  #zhihu: http://www.zhihu.com/people/your-user-name
+# 等等
+
+
+
+
+
+
 
 # Markdown语法
 ## https://github.com/chjj/marked
@@ -85,10 +101,9 @@ markdown:
   breaks: true
   smartLists: true
   smartypants: true
-
 # Deployment 部署配置
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/YYwishp/YYwishp.github.io.git
+  repo: git@github.com:YYwishp/YYwishp.github.io.git
   branch: master

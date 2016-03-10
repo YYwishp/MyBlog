@@ -1,12 +1,13 @@
 
----
-title: 第1次 HEXO--换电脑编辑，指南
-date: 2016-03-03 21:29:56
-tags:
----
-首先在A电脑上把【HEXO】文件整个上传到Github上，具体操作如下
 
---------------
+title: 第2次 HEXO--换电脑编辑，指南
+date: 2016-03-06 10:29:56
+tags: HEXO
+categories: HEXO
+
+---
+# 首先在A电脑上把【HEXO】文件整个上传到Github上，具体操作如下
+
 1. 鼠标右击【HEXO】文件夹，选中Git在这里创建版本库
 
 	![](http://i.imgur.com/QIX3nDR.jpg)
